@@ -1,7 +1,20 @@
 [
   {
-    "post_image": "https://images-ext-1.discordapp.net/external/MIH-Pvfka0q3zoc3H2HDam3nF4eTJWt5vpfEWe0Iq-k/https/i.ibb.co/LdBYpVfk/nn.png?format=webp&quality=lossless",
-    "post_name": "gg",
-    "post": "gg"
+    "category": "Event",
+    "post_name": "New Diamond Royale",
+    "post_image": "https://img.freepik.com/free-vector/gaming-banner-template-with-character_23-2148946724.jpg",
+    "post": "Check out the latest Diamond Royale bundle starting today! Don't miss the chance to grab this legendary outfit."
+  },
+  {
+    "category": "Gift",
+    "post_name": "Daily Login Rewards",
+    "post_image": "https://img.freepik.com/free-photo/3d-render-gift-box-with-ribbon-bow-gold-confetti_107791-16472.jpg",
+    "post": "Login for 5 consecutive days and win a free weapon crate and surfboard skin."
+  },
+  {
+    "category": "Update",
+    "post_name": "Patch Note OB45",
+    "post_image": "https://img.freepik.com/free-vector/battle-royale-gaming-background_23-2148785121.jpg",
+    "post": "New character skills adjustments and weapon balancing have been added in the latest update."
   }
 ]
